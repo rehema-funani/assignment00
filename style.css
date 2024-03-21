@@ -111,6 +111,14 @@ b{
     width: 10%;
     background-color: blue;
 }
+.imagemedial4{
+    width: 400px;
+}
+#haa{
+    text-align: center;
+    
+}
+
 @media screen and (max-width:480px){
 
     ul{
@@ -161,18 +169,7 @@ b{
     }
     
 
-    
-
-
-
-
-
-
-
-
-
-
-    @media screen and (min-width:820px){
+     @media screen and (min-width:820px){
         #container6{
             display: flex;
             justify-content: space-between;
